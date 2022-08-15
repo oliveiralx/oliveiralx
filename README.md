@@ -6,7 +6,7 @@
 <!-- <img align='right' src='https://octodex.github.com/images/pythocat.png' width='400'> -->
 
 
-* 📚 An Electrical Engineering Student at [FEIS UNESP](https://www.feis.unesp.br/#!/dee)
+* 📚 Electrical Engineering Student at [FEIS UNESP](https://www.feis.unesp.br/#!/dee)
 * ✈ Member of [Zebra Aerodesign](https://www.instagram.com/equipe_zebra/)
 * 🐍 Learning Python and Data Analysis
 * 🌱 I'm currently learning Front-end web development
