@@ -32,12 +32,16 @@
 </div>
 
 # 📊 Some Stats
+
 <div align="center">
   <a href="https://github.com/oliveiralx">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=oliveiralx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralx&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=oliveiralx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralx&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
- 
+
+
+  
+  
   ----
 
   <!--SNAKE GAME-->
