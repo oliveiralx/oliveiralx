@@ -31,6 +31,8 @@
   <img align="center" alt="Oli-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
+
+<!--
 # 📊 Some Stats
 
 <div align="center">
@@ -38,9 +40,7 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=oliveiralx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralx&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-
-  
+-->
   
   ----
 
