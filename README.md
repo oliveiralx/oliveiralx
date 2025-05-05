@@ -1,7 +1,12 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi, There! I'm Matheus Oliveira
 
-* 📚 Electrical Engineering Student at [FEIS UNESP](https://www.feis.unesp.br/#!/dee)
-* ✈ Member of [Zebra Aerodesign](https://www.instagram.com/equipe_zebra/)
+# About Me
+* ✈ **[Zebra Aerodesign](https://www.instagram.com/equipe_zebra/)**  
+* 📚 **Electrical Engineering Student at [FEIS UNESP](https://www.feis.unesp.br/#!/dee)**  
+* 🛠 **Electronics Technician**
+* 💻 **Firmware and Hardware Development**, focused on IoT technologies and innovation  
+* ⚙️ **Embedded Systems Projects**, exploring technologies that shape the future  
+
 
 # 📬 Find me at:
  
