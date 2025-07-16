@@ -7,18 +7,7 @@
 * 💻 **Firmware and Hardware Development**, focused on IoT technologies and innovation  
 * ⚙️ **Embedded Systems Projects**, exploring technologies that shape the future  
 
-
 # 📬 Find me at:
  
   [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/oliveiralx)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-de-oliveira-alexandre-3ba158233/)
-___
-  ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oliveiralx/oliveiralx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oliveiralx/oliveiralx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oliveiralx/oliveiralx/output/pacman-contribution-graph.svg">
-</picture>
-
-###
